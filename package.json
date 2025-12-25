@@ -10,13 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "motion": "^12.23.26",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-youtube": "^10.1.0",
+    "youtube-player": "^5.6.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
+    "@types/youtube-player": "^5.5.11",
     "@vitejs/plugin-react-swc": "^4.2.2",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
